@@ -111,8 +111,6 @@ def speculative_generate(prompt: str):
     print(f"Accepted token lengths distribution: {accepted_lengths}")
     return output_text
 
-
-# ====================== 测试 ======================
 if __name__ == "__main__":
     prompt = "Give me ONLY ONE benefit of using a speculatively generated decoding strategy in language models using less than 20 words. Do not write anything else."
     result = speculative_generate(prompt)
