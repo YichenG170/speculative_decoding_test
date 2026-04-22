@@ -1,4 +1,4 @@
-开始生成... Target: 8B-4bit | Draft: 1B | gamma=8
+Starting generation... Target: meta-llama/Llama-3.1-8B-Instruct | Draft: meta-llama/Llama-3.2-1B-Instruct | gamma=8
 Draft tokens: [' \n', 'The', ' use', ' of', ' a', ' spec', 'ul', 'atively']
 Target tokens: [' \n', 'Improved', ' benefit', ' of', ' a', ' spec', 'ul', 'atively']
 Draft tokens: [' performance', ' on', ' unseen', ' data', '.', ' \n', 'Spec', 'ulative']
